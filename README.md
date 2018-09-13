@@ -1,6 +1,3 @@
-
-
-
 # Mitchell Atkinson III
 ## BIO
 
